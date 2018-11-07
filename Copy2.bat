@@ -1,3 +1,3 @@
 @echo off
 
-copy Decryptor\DataLocal Encryptor\Datalocal
+copy Decryptor\DataLocal Encryptor\Datalocal && cd Encryptor && doublegen.bat

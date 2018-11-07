@@ -1,0 +1,3 @@
+@echo off
+echo Re-applying checksums...
+py "%~dp0autochecksum750.py"
