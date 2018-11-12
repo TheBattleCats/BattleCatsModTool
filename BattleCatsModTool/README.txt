@@ -26,3 +26,5 @@ Credits:
 ITstumbler#1797 - Scripts (this wouldn't work without them!) also a helpful guide.
 
 Me: Everything but the scripts used
+
+And sorry for the metric %*$# ton of batch files
